@@ -10,6 +10,12 @@ justDrop is a simple web application that allows users to easily drag and drop i
 
 ## Demo
 
+
+
+https://github.com/smil-thakur/justDrop/assets/75114432/5760a6bb-de29-4dc3-a583-811e8db6c4d1
+
+
+
 Check out the live demo: [justDrop Demo](https://smil-thakur.github.io/justDrop/)
 
 ## Technologies Used
