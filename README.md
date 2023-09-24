@@ -2,7 +2,10 @@
 
 🚀 Exciting Project Announcement: Introducing justDrop! 📂💻
 
-https://github.com/smil-thakur/justDrop/assets/75114432/11f67c60-2c51-4c37-a6fa-7c79edcb8e5d
+
+
+https://github.com/smil-thakur/justDrop/assets/75114432/64eaa1ef-2e42-44e5-bc8c-35545beea6f4
+
 
 
 
